@@ -8,8 +8,6 @@ A sleek, modern, dark-mode desktop timer application for Windows. Built with C# 
 
 ---
 
-### 📷 **[IMPORTANT: REPLACE THIS IMAGE]** 📷
-
 > **Your next step:**
 > 1. Run your application.
 > 2. Take a screenshot of it.
