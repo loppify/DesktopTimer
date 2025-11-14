@@ -8,7 +8,7 @@ A sleek, modern, dark-mode desktop timer application for Windows. Built with C# 
 
 ---
 
-`![Elegant Timer Screenshot](./img/Interface.png)`
+[Elegant Timer Screenshot](./img/Interface.png)
 
 ---
 
@@ -33,7 +33,7 @@ You can run this project from the source code using Visual Studio.
 
 1.  Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/](https://github.com/)[loppify]/[DesktopTimer].git
+    git clone [https://github.com/](https://github.com/)loppify/DesktopTimer.git
     ```
 2.  Open the `DesktopTimer.sln` file in Visual Studio.
 3.  Press **F5** or click the "Start" button to build and run the application.
