@@ -8,7 +8,7 @@ A sleek, modern, dark-mode desktop timer application for Windows. Built with C# 
 
 ---
 
-[Elegant Timer Screenshot](./img/Interface.png)
+![Elegant Timer Screenshot](./img/Interface.png)
 
 ---
 
