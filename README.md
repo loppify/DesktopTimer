@@ -8,13 +8,7 @@ A sleek, modern, dark-mode desktop timer application for Windows. Built with C# 
 
 ---
 
-> **Your next step:**
-> 1. Run your application.
-> 2. Take a screenshot of it.
-> 3. Drag-and-drop the image file into this `README.md` file on GitHub.
-> 4. It will automatically upload and give you a link.
-> 5. Delete this entire box and replace it with your image link, like this:
->    `![Elegant Timer Screenshot](./Interface.png)`
+`![Elegant Timer Screenshot](./img/Interface.png)`
 
 ---
 
